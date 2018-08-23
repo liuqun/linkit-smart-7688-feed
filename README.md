@@ -24,7 +24,7 @@ In the Ubuntu system, open the *Terminal* application and type the following com
 
 2. Download OpenWrt CC source codes:
     ```
-    $ git clone git://git.openwrt.org/15.05/openwrt.git
+    $ git clone https://git.archive.openwrt.org/15.05/openwrt.git
     ```
     
 3. Prepare the default configuration file for feeds:
